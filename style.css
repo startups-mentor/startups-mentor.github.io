@@ -33,9 +33,9 @@ body {
     	font-style: normal;
     	}
 
-		h1 {
+		h2 {
 		text-transform: uppercase;
-		color: #99CC00;
+		color: #fff;
 		font-family: LeagueGothicRegular;
 		font-size: 80px;
 		font-weight: lighter;
@@ -43,7 +43,7 @@ body {
 		margin: 30px 0 0 0;
 		}
 
-		h2 {
+		h1 {
 		text-transform: uppercase;
 		color: #99CC00;
 		font-family: LeagueGothicRegular;
@@ -51,8 +51,18 @@ body {
 		font-weight: lighter;
 		text-shadow: 0px 2px 0px #000;
 		margin: 15px 0 15px 20px;
-		text-align: left;
 		}
+
+    h3 {
+    text-transform: uppercase;
+    color: #99CC00;
+    font-family: LeagueGothicRegular;
+    font-size: 32px;
+    font-weight: lighter;
+    text-shadow: 0px 2px 0px #000;
+    margin: 15px 0 15px 20px;
+    text-align: left;
+    }
 
 		p {
 		color: #fff;
@@ -118,7 +128,7 @@ body {
 		position: relative;
 		}
 
-		.mailing-list h2 {
+		.mailing-list h3 {
 		width: 450px;
 		float: left;
 		}
